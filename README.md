@@ -12,7 +12,9 @@ de nivel.</p>
 
 ### :rocket: Aplicação
 
-
+<h1 align="center">
+  <img alt="LaboralNLW" title="#LaboralNLW" src="./screenshots/tela2nlw.png" />
+</h1>
 
 ### 🛠 Tecnologias
 
