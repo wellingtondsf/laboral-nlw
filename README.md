@@ -1,4 +1,3 @@
-# laboral-nlw
 
 <h1 align="center">
     Laboral NLW
