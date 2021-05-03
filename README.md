@@ -1,8 +1,7 @@
 
 <h1 align="center">
-    Move.it
+  <img alt="Logo" src="/public/logo-full.svg">
 </h1>
-
 
 
 <p align="center">
@@ -45,13 +44,15 @@ de nivel.
 # Clone o repositório
 $ git clone https://github.com/wellingtondsf/laboral-nlw
 
+# Entre na pasta do repositório
+$ cd laboral-nlw
+
 # Instale as dependências
 $ yarn install
 
-# Inicie o servidor
+# Inicie a aplicação
+# aplicação iniciara na porta 3000
 $ yarn dev
-
-# servidor iniciara na porta 3000
 ```
 
 ## 📜 Licença
