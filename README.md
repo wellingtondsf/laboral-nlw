@@ -37,7 +37,7 @@ um desafio, como fazer algum exercicio simples, e caso completo, o usuario ganha
 de nivel.
 
 
-## ▶️ Como executar
+## ✨ Como executar
 
 ```bash
 # Clone o repositório
