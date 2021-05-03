@@ -3,15 +3,17 @@
     Move.it
 </h1>
 
-<p align="center"> 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0174DF&labelColor=000000">
-</p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
+</p>
+
+<p align="center"> 
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0174DF&labelColor=000000">
 </p>
 
 ## 🚀 Aplicação
